@@ -2,10 +2,10 @@ ACollect is a comprehensive harvesting, extracting, and gathering package for th
 
 PRE-REQUISITES: In order for ACollect to work you will need the following:
 
-Keneanung's eventBus package: https://keneanung.github.io/nexus-event-bus/EventBus.nxs
-Argwin's eventBus events package
-And the ACollect package
-They MUST be in that order in your Reflex Packages screen in Achaea.
+ - Keneanung's eventBus package: https://keneanung.github.io/nexus-event-bus/EventBus.nxs
+ - Argwin's eventBus events package
+ - And the ACollect package
+ - They MUST be in that order in your Reflex Packages screen in Achaea.
 
 NOTE: After installing all three packages, in the right order, you will need to either log off and then back on, or reset the package in the Reflex Packages settings screen.
 
